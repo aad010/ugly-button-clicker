@@ -2,5 +2,5 @@ Made a simple app that uses HTML, CS, and basic JavaScript to create something s
 
 Updates:
 
-0.0 => Deployed Initial Site
+0.0 => Deployed Initial Site  
 0.1 => TBA
